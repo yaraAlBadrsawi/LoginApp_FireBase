@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075548547710",
+    "project_id": "loginapp-2c5e4",
+    "storage_bucket": "loginapp-2c5e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075548547710:android:86f5899fff76ddc67ec62f",
+        "android_client_info": {
+          "package_name": "com.alaqsa.android_lab.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075548547710-u8mkaei6pimv5r0j9gccqiajfk3ltu9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqLbtRVYCFirJD-X6z8t-J-GsSdaeWvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075548547710-u8mkaei6pimv5r0j9gccqiajfk3ltu9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
